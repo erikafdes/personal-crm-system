@@ -6,10 +6,10 @@
 ## Project Info
 
 Intern ID
-Full Name
-No. of Weeks
-Project Name Personal CRM System 
-Domain
+Full Name: Erika Fernandes
+No. of Weeks: 6 weeks
+Project Name: Personal CRM System 
+Domain: Software Engineering
 Tech Stack** | HTML5, CSS3, Vanilla JavaScript, localStorage |
 
 
