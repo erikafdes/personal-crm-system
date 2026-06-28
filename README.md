@@ -6,10 +6,17 @@
 ## Project Info
 
 Intern ID
+<<<<<<< HEAD
 Full Name
 No. of Weeks
 Project Name Personal CRM System 
 Domain
+=======
+Full Name: Erika Fernandes
+No. of Weeks: 6 weeks
+Project Name: Personal CRM System 
+Domain: Software Engineering
+>>>>>>> 3d9999354beddc1c70163ddd4d89058e0fbc5b2d
 Tech Stack** | HTML5, CSS3, Vanilla JavaScript, localStorage |
 
 
@@ -35,8 +42,12 @@ A **Personal Contact Relationship Manager (CRM)** built as a fully client-side w
 - Chronological timeline view with filters
 
 ### Reminder System
+<<<<<<< HEAD
 - Set dated reminders linked to contacts
 - Priority levels: High / Medium / Low
+=======
+- Set dated reminders linked to contacts- Priority levels: High / Medium / Low
+>>>>>>> 3d9999354beddc1c70163ddd4d89058e0fbc5b2d
 - Overdue detection with visual alerts
 - Mark reminders as complete
 
@@ -56,6 +67,7 @@ A **Personal Contact Relationship Manager (CRM)** built as a fully client-side w
 - Dark theme UI
 
 
+<<<<<<< HEAD
 
 ## Screenshots
 ![Screenshot 1](screenshot/Screenshot 2026-06-27 115553.png)
@@ -64,3 +76,5 @@ A **Personal Contact Relationship Manager (CRM)** built as a fully client-side w
 ![Screenshot 4](screenshot/Screenshot 2026-06-27 115533.png)
 ![Screenshot 5](screenshot/Screenshot 2026-06-27 115540.png)
 ![Screenshot 6](screenshot/Screenshot 2026-06-27 115546.png)
+=======
+>>>>>>> 3d9999354beddc1c70163ddd4d89058e0fbc5b2d
