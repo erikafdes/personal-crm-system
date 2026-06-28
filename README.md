@@ -35,8 +35,7 @@ A **Personal Contact Relationship Manager (CRM)** built as a fully client-side w
 - Chronological timeline view with filters
 
 ### Reminder System
-- Set dated reminders linked to contacts
-- Priority levels: High / Medium / Low
+- Set dated reminders linked to contacts- Priority levels: High / Medium / Low
 - Overdue detection with visual alerts
 - Mark reminders as complete
 
@@ -54,20 +53,5 @@ A **Personal Contact Relationship Manager (CRM)** built as a fully client-side w
 - LocalStorage persistence (data saved in browser)
 - Responsive design (mobile friendly)
 - Dark theme UI
-
-
-
-## Screenshots
-
-
-
-## Possible Enhancements
-
-- Firebase/Supabase backend for cloud sync
-- Email integration (send from CRM)
-- Import contacts from CSV/vCard
-- Contact photo upload
-- Birthday notifications
-- Mobile app (React Native)
 
 
