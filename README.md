@@ -10,7 +10,7 @@ Intern ID:CITS3717
 Full Name: Erika Fernandes
 No. of Weeks: 6 weeks
 Project Name: Personal CRM System 
-Domain: Software Engineering
+Domain: Software Development
 
 Tech Stack** | HTML5, CSS3, Vanilla JavaScript, localStorage |
 
